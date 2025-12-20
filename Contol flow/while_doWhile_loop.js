@@ -1,8 +1,16 @@
 // WHILE & DO-WHILE LOOP QUESTIONS 
 
-// 26. Print numbers from 1 to 10 using while loop. 
+// 26. Print numbers from 1 to 10 using while loop.
+
+// let i = 1;
+// while (i <= 10) {
+//     console.log(i);
+//     i++;
+// }
 
 // 27. Print numbers from 10 to 1 using while loop. 
+
+
 
 // 28. Find the sum of digits of a number using while loop. 
 
