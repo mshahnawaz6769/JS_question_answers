@@ -2,7 +2,23 @@
 
 // 1. Create an array of 5 student names. 
 
+// let arr = ["shahnawaz", "arfa", "zoha", "alqama", "mariya"];
+// console.log(arr); // [ 'shahnawaz', 'arfa', 'zoha', 'alqama', 'mariya' ]
+
+// console.log(arr.length); // 5
+
+// console.log(arr[1]); // arfa
+
+// for(let i = 0; i < arr.length; i++) {
+//     console.log(arr[i]);
+// }
+
 // 2. Create an array containing mixed data types. 
+
+// var arr = ["shahnawaz", 19, true, NaN];
+// for(let i = 0; i < arr.length; i++) {
+//     console.log(arr[i]);
+// }
 
 // 3. What is the difference between [] and new Array()? 
 
